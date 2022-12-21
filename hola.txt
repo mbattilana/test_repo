@@ -1,2 +1,4 @@
 texto de prueba
 Paso 6: Modificando archivo de mi compa
+
+Paso 7: Modificando el mismo archivo que mi compa
